@@ -1,4 +1,4 @@
-package com.henrysuryawirawan.demo.cloudfunctions;
+package com.henrysuryawirawan.demo.cloudfunctions.helloworld;
 
 import java.io.IOException;
 import java.io.PrintWriter;
