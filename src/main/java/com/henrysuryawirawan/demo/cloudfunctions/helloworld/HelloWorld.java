@@ -16,7 +16,7 @@ public class HelloWorld {
     }
 
     PrintWriter writer = response.getWriter();
-    writer.write("Hello " + name + "!");
+    writer.write("Hello " + name + ". From Cloud Functions.");
   }
 
 }
